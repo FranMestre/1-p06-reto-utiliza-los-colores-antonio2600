@@ -11,7 +11,7 @@ PC: 4000
 
 ## Actividad 2: Pixel Cian
 ```
-3E 81 32 00 C0 18 FE
+3E 08 32 00 C0 18 FE
 ```
 PC: 4000
 
@@ -23,7 +23,7 @@ PC: 4010
 
 ## Actividad 4: Pixel Azul (Fondo)
 ```
-3E 81 33 00 C0 18 FE
+3E 00 33 00 C0 18 FE
 ```
 PC: 4000
 
